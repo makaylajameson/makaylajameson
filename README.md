@@ -1,5 +1,7 @@
 ### Welcome to my GitHub 👋 I'm Makayla
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👩‍💻+Web+Developer;🎨+Web+Designer;💻+Backend+Developer;🖌+Frontend+Developer;💪+Gym+Enthusiast;👧+Girl+Mom)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makaylajameson&theme=ayu-light)](https://git.io/streak-stats)
 
 #### 🔧 Languages and Tools 
